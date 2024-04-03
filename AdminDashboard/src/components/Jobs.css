@@ -1,0 +1,9 @@
+.job {
+  background: linear-gradient(180deg, #cbf6e7 0%, #80e7be 100%);
+  padding-right: 5rem !important;
+}
+.job-details {
+  padding-top: 0.7rem;
+  padding-bottom: 0.7rem;
+  padding-left: 0.5rem;
+}
